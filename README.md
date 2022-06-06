@@ -22,9 +22,6 @@ Here are a few things I've picked up along my learning journey.
 
 ## Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/ankiprawira/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/ankiprawira)
 [![Email](https://img.shields.io/badge/Email-000?style=flat&logo=gmail)](mailto:ankiprawira@gmail.com)
-[![Insta](https://img.shields.io/badge/Insta-000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ankiprawira/)
+[![Telegram](https://img.shields.io/badge/Telegram-000?style=flat&logo=telegram)](https://t.me/ankiprawira)
 [![Spotify](https://img.shields.io/badge/Spotify-000?&style=flat&logo=spotify)](https://open.spotify.com/user/ankiprawira)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam)](https://steamcommunity.com/id/pikidaz/)
-[![Facebook](https://img.shields.io/badge/Facebook-000?style=flat&logo=facebook)](https://www.facebook.com/ankiprawira/)
