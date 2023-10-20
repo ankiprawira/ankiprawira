@@ -1,5 +1,5 @@
 # Anki Prawira
-Hello! i'm Anki Prawira. currently a student pursuing a degree in Computer Science at Universitas Padjadjaran. I have a big interest in Software Testing and currently eager to learn more about Test Automation. 
+Hello! i'm Anki Prawira. recent computer science graduate from Universitas Padjadjaran. I have a big interest in Software Testing and currently eager to learn more about Test Automation. 
 
 ## ⚡ Tech Stack
 Here are a few things I've picked up along my learning journey.
